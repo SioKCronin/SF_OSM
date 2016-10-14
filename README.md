@@ -1,2 +1,2 @@
 # Udacity_P3
-Project file, data cleaning, and JSON data
+Project file and data cleaning code
