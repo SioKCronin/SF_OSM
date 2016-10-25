@@ -1,2 +1,2 @@
 # Udacity_P3
-Project file and data cleaning code
+Project file, data cleaning, and map.png file
