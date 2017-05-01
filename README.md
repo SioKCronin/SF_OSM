@@ -10,5 +10,5 @@ This repository contains an assessment of whether San Francisco Open Street Map 
 
 # Key findings
 
-* these data are not a robust resource for for tracking accessbility/ADA compliance.
-* these data could be used to analyze commerical transportation route accessibilty. 
+* These data are not a robust resource for tracking accessbility/ADA compliance. 
+* These data could be used to analyze commerical transportation route accessibilty.  
