@@ -4,11 +4,11 @@
 
 [PROJECT WEBSITE](https://siokcronin.github.io/sf_osm/index.html)
 
-# Overview
+## Overview
 
 This repository contains an assessment of whether San Francisco Open Street Map data is a useful source in identifying physically accessible facilities. 
 
-# Key findings
+## Key findings
 
 * These data are not a robust resource for tracking accessbility/ADA compliance. 
 * These data could be used to analyze commerical transportation route accessibilty.  
